@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mail.xdsigns.com.au
 mx: mailsec.protonmail.ch
 mx: mail.protonmail.ch

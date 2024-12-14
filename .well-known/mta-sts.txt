@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mail.xdsigns.com.au
 mx: mailsec.protonmail.ch
 mx: mail.protonmail.ch
 max_age: 604800
